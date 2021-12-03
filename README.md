@@ -4,7 +4,7 @@
 
 [EN] This project was made under the Curricular Unit of **Introduction to Programming** in the Computer Science and Engineering Bachelor Program of Universidade Aberta, academic year of 2018-19.
 
-[PT] Este projeto foi realizado no âmbito da Unidade Curricular de **Introdução à Programação** da Licenciatura em Engenharia Informática da Universidade Aberta no ano letivo de 2018-2019.
+[PT] Este projeto foi realizado no âmbito da Unidade Curricular de **Introdução à Programação** da Licenciatura em Engenharia Informática da Universidade Aberta no ano letivo de 2018-19.
 
 ## Introdução
 
