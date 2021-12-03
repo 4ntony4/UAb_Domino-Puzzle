@@ -313,4 +313,4 @@ número corresponde ao número de rotações a dar à peça, antes de a colocar 
 
 
 ## Execução no Replit
-Run it on Replit [here](https://replit.com/@DiogoAntao/UAbIPefA).
+Run it on Replit [here](https://replit.com/@DiogoAntao/littleDominoPuzzle).
