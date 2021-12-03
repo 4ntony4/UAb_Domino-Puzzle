@@ -1,6 +1,6 @@
 # UAb_littleDominoPuzzle
 
-[![Replit Ready to Run](https://img.shields.io/badge/Replit-Ready_to_Run-informational?logo=replit&labelColor=white)](https://replit.com/@DiogoAntao/UAblittleDominoPuzzle)
+[![Replit Ready to Run](https://img.shields.io/badge/Replit-Ready_to_Run-informational?logo=replit&labelColor=white)](https://replit.com/@DiogoAntao/UAblittleDominoPuzzle?v=1)
 
 [EN] This project was made under the Curricular Unit of **Introduction to Programming** in the Computer Science and Engineering Bachelor Program of Universidade Aberta, academic year of 2018-19.
 
